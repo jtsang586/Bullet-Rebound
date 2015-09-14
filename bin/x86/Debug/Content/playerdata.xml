@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="GameInfo.PlayerInfo[]">
+    <Item>
+      <playerSpeed>350</playerSpeed>
+      <playerLives>1</playerLives>
+      <playershotSpeed>350</playershotSpeed>
+    </Item>
+  </Asset>
+</XnaContent>
+

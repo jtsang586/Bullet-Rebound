@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <long>3200</long>
+    <long>2500</long>
+    <long>1900</long>
+    <long>1700</long>
+    <long>800</long>
+  </Score>
+  <Count>5</Count>
+</HighScoreData>

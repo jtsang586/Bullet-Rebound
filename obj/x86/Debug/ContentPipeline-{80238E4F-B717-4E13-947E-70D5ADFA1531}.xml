@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\TitleScreen.png</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2014-04-10T18:50:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpriteSheet.png</Source>
+      <Name>Textures\SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\SpriteSheet.xnb</Output>
+      <Time>2014-04-10T18:50:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpriteSheet11.png</Source>
+      <Name>Textures\SpriteSheet11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\SpriteSheet11.xnb</Output>
+      <Time>2014-04-10T18:50:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Untitled.png</Source>
+      <Name>Textures\Untitled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\Untitled.xnb</Output>
+      <Time>2014-04-10T18:50:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies.png</Source>
+      <Name>Textures\Enemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\Enemies.xnb</Output>
+      <Time>2014-04-10T18:50:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ShieldTexture.png</Source>
+      <Name>Textures\ShieldTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\ShieldTexture.xnb</Output>
+      <Time>2014-04-10T18:50:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpriteSheet1.png</Source>
+      <Name>Textures\SpriteSheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\SpriteSheet1.xnb</Output>
+      <Time>2014-04-10T18:50:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\explosion.png</Source>
+      <Name>Textures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Textures\explosion.xnb</Output>
+      <Time>2014-04-10T18:50:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles14.spritefont</Source>
+      <Name>Fonts\Pericles14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
+      <Time>2014-04-10T18:50:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Game Over.mp3</Source>
+      <Name>Sound\Game Over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Game Over.xnb</Output>
+      <Extra>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Game Over.wma</Extra>
+      <Time>2014-04-10T18:50:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Main.mp3</Source>
+      <Name>Sound\Main</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main.xnb</Output>
+      <Extra>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main.wma</Extra>
+      <Time>2014-04-10T18:50:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Main2.mp3</Source>
+      <Name>Sound\Main2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main2.xnb</Output>
+      <Extra>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main2.wma</Extra>
+      <Time>2014-04-10T18:50:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Main3.mp3</Source>
+      <Name>Sound\Main3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main3.xnb</Output>
+      <Extra>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Main3.wma</Extra>
+      <Time>2014-04-10T18:50:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\TitleScreen.mp3</Source>
+      <Name>Sound\TitleScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\TitleScreen.xnb</Output>
+      <Extra>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\TitleScreen.wma</Extra>
+      <Time>2014-04-10T18:50:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Explosion1.wav</Source>
+      <Name>Sound\Explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Explosion1.xnb</Output>
+      <Time>2014-04-10T18:50:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Explosion2.wav</Source>
+      <Name>Sound\Explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Explosion2.xnb</Output>
+      <Time>2014-04-10T18:50:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Explosion3.wav</Source>
+      <Name>Sound\Explosion3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Explosion3.xnb</Output>
+      <Time>2014-04-10T18:50:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Explosion4.wav</Source>
+      <Name>Sound\Explosion4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Explosion4.xnb</Output>
+      <Time>2014-04-10T18:50:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Shot1.wav</Source>
+      <Name>Sound\Shot1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Shot1.xnb</Output>
+      <Time>2014-04-10T18:50:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Shot2.wav</Source>
+      <Name>Sound\Shot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\Sound\Shot2.xnb</Output>
+      <Time>2014-04-10T18:50:53+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{80238E4F-B717-4E13-947E-70D5ADFA1531}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet ReboundContent\</RootDirectory>
+      <LoggerRootDirectory>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\Bullet Rebound - Complete\Bullet Rebound - Complete\Bullet Rebound\Bullet Rebound\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-17T09:43:02.1355632+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
